@@ -4,11 +4,24 @@ This houses the curriculum for a professional program of introduction to data sc
 
 The typical student is someone new to data science and machine learning, who is interested in developing skills that they can apply in a professional setting. 
 
+There are several defining features of the courses:
+
+- Reproducibility, ethics, and professional skills are integrated into every course.
+- Each course has a specific inequity feature so that students can better relate the concepts they are learning to the circumstances that surround them.
+- Relevant academic literature, especially textbooks, are integrated throughout to enable students to learn more, outside of the courses, based on their needs and interests. This enables students to more easily reinforce or build on what they learn. To the extent possible, these textbooks are open source and freely available.
+- Group projects and team exercises where individuals engage one another so they are trained around how they can work in teams are included.
+
+Pedagogical foundations
+
+- Our approach is based on "I do, we do, you do". Here, an instructor will demonstrate the particular skill of interest, then students will do it with the instructor, and finally students will do it themselves. This approach is active and requires a lot from students.
+- We draw from industry and use "stand-ups" and group-based projects, where possible
+- The materials deliberately include errors and teach how to problem solve, instead of just the "happy path". This is to help alleviate some pressure of perfection, as well as develop the skill of researching questions/errors.
+
 # Structure
 
 ### Foundations
 
-- [`Shell git and GitHub`](https://github.com/UofT-DSI/01-shell_git_github)
+- [`Shell, Git and GitHub`](https://github.com/UofT-DSI/01-shell_git_github)
 - [`SQL`](https://github.com/UofT-DSI/02-sql)
 - [`Python`](https://github.com/UofT-DSI/03-python)
 - [`R`](https://github.com/UofT-DSI/04-r)
