@@ -8,33 +8,37 @@ The typical student is someone new to data science and machine learning, who is 
 
 ### Foundations
 
-- 01-shell_git_github
-- 02-sql
-- 03-python
-- 04-r
+- [`Shell git and GitHub`](https://github.com/UofT-DSI/01-shell_git_github)
+- [`SQL`](https://github.com/UofT-DSI/02-sql)
+- [`Python`](https://github.com/UofT-DSI/03-python)
+- [`R`](https://github.com/UofT-DSI/04-r)
 
 ### Software engineering
 
-- 04-building_research_software
-- 11-algorithms_and_data_structures
-- 12-production
+- [`Building research software`](https://github.com/UofT-DSI/04-building_research_software)
+- [`Algorithms and data structures`](https://github.com/UofT-DSI/11-algorithms_and_data_structures)
+- [`Production`](https://github.com/UofT-DSI/12-production)
 
 ### Thinking about data
 
-- 20-sampling
-- 21-causal_inference
-- 07-visualization
+- [`Sampling`](https://github.com/UofT-DSI/20-sampling)
+- [`Causal inference`](https://github.com/UofT-DSI/21-causal_inference)
+- [`Visualization`](https://github.com/UofT-DSI/07-visualization)
 
 ### Modeling data
 
-- 30-statistical_learning
-- 31-bayesian_modeling
-- 32-deep_learning
-- 32-deep_learning_topics
+- [`Statistical learning`](https://github.com/UofT-DSI/06-statistical_learning)
+- [`Bayesian modeling`]()
+- [`Deep learning`](https://github.com/UofT-DSI/32-deep_learning)
+- [`Special topics in deep learning`]()
 
 
 # Acknowledgements
 
+We have especially drawn on Software Carpentries, UBC's Masters of Data Science, and U of T's CARTE program. We thank them for making their materials public and hope that by making our materials public we contribute in the same way.
 
+# Contact
+
+courses.dsi@utoronto.ca
 
 
