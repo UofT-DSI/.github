@@ -17,7 +17,7 @@ Pedagogical foundations
 - We draw from industry and use "stand-ups" and group-based projects, where possible
 - The materials deliberately include errors and teach how to problem solve, instead of just the "happy path". This is to help alleviate some pressure of perfection, as well as develop the skill of researching questions/errors.
 
-# Structure
+# Courses
 
 ### Foundations
 
@@ -40,7 +40,7 @@ Pedagogical foundations
 
 ### Modeling data
 
-- [`Statistical learning`](https://github.com/UofT-DSI/06-statistical_learning)
+- [`Estimation, machine learning, and testing`](https://github.com/UofT-DSI/estimation_machine_learning_testing)
 - [`Bayesian modeling`]()
 - [`Deep learning`](https://github.com/UofT-DSI/32-deep_learning)
 - [`Special topics in deep learning`]()
