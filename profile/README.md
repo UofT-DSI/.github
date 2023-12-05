@@ -29,21 +29,21 @@ Pedagogical foundations
 ### Software engineering
 
 - [`Building research software`](https://github.com/UofT-DSI/04-building_research_software)
-- [`Algorithms and data structures`](https://github.com/UofT-DSI/11-algorithms_and_data_structures)
-- [`Production`](https://github.com/UofT-DSI/12-production)
+- [`Algorithms and data structures`](https://github.com/UofT-DSI/algorithms_and_data_structures)
+- [`Production`](https://github.com/UofT-DSI/production)
 
 ### Thinking about data
 
-- [`Sampling`](https://github.com/UofT-DSI/20-sampling)
-- [`Causal inference`](https://github.com/UofT-DSI/21-causal_inference)
+- [`Sampling`](https://github.com/UofT-DSI/sampling)
+- [`Causal inference`](https://github.com/UofT-DSI/causal_inference)
 - [`Visualization`](https://github.com/UofT-DSI/07-visualization)
 
 ### Modeling data
 
 - [`Estimation, machine learning, and testing`](https://github.com/UofT-DSI/estimation_machine_learning_testing)
-- [`Bayesian modeling`]()
-- [`Deep learning`](https://github.com/UofT-DSI/32-deep_learning)
-- [`Special topics in deep learning`]()
+- [`Bayesian modeling`](https://github.com/UofT-DSI/bayesian_modeling)
+- [`Deep learning`](https://github.com/UofT-DSI/deep_learning)
+- [`Special topics in deep learning`](https://github.com/UofT-DSI/deep_learning_topics)
 
 
 # Acknowledgements
@@ -53,5 +53,4 @@ We have especially drawn on Software Carpentries, UBC's Masters of Data Science,
 # Contact
 
 courses.dsi@utoronto.ca
-
 
