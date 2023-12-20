@@ -28,7 +28,7 @@ Pedagogical foundations
 
 ### Software engineering
 
-- [`Building research software`](https://github.com/UofT-DSI/04-building_research_software)
+- [`Building software`](https://github.com/UofT-DSI/building_software)
 - [`Algorithms and data structures`](https://github.com/UofT-DSI/algorithms_and_data_structures)
 - [`Production`](https://github.com/UofT-DSI/production)
 
@@ -41,7 +41,6 @@ Pedagogical foundations
 ### Modeling data
 
 - [`Estimation, machine learning, and testing`](https://github.com/UofT-DSI/estimation_machine_learning_testing)
-- [`Bayesian modeling`](https://github.com/UofT-DSI/bayesian_modeling)
 - [`Deep learning`](https://github.com/UofT-DSI/deep_learning)
 - [`Special topics in deep learning`](https://github.com/UofT-DSI/deep_learning_topics)
 
