@@ -21,10 +21,11 @@ Pedagogical foundations
 
 ### Foundations
 
-- [`Shell, Git and GitHub`](https://github.com/UofT-DSI/01-shell_git_github)
+- [`Shell`](https://github.com/UofT-DSI/shell)
+- [`Git`](https://github.com/UofT-DSI/git)
 - [`SQL`](https://github.com/UofT-DSI/02-sql)
-- [`Python`](https://github.com/UofT-DSI/03-python)
-- [`R`](https://github.com/UofT-DSI/04-r)
+- [`Python`](https://github.com/UofT-DSI/python)
+- [`R`](https://github.com/UofT-DSI/r)
 
 ### Software engineering
 
