@@ -19,6 +19,10 @@ Pedagogical foundations
 
 # Courses
 
+### Set up
+
+- [`Onboarding`](https://github.com/UofT-DSI/Onboarding)
+
 ### Foundations
 
 - [`Shell`](https://github.com/UofT-DSI/shell)
