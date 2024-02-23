@@ -47,7 +47,7 @@ Pedagogical foundations
 
 - [`Estimation, machine learning, and testing`](https://github.com/UofT-DSI/estimation_machine_learning_testing)
 - [`Deep learning`](https://github.com/UofT-DSI/deep_learning)
-- [`Special topics in deep learning`](https://github.com/UofT-DSI/deep_learning_topics)
+- [`Deep learning and healthcare`](https://github.com/UofT-DSI/deep_learning_topics)
 
 
 # Acknowledgements
