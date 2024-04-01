@@ -7,13 +7,13 @@ The typical student is someone new to data science and machine learning, who is 
 There are several defining features of the courses:
 
 - Reproducibility, ethics, and professional skills are integrated into every course.
-- Each course has a specific inequity feature so that students can better relate the concepts they are learning to the circumstances that surround them.
-- Relevant academic literature, especially textbooks, are integrated throughout to enable students to learn more, outside of the courses, based on their needs and interests. This enables students to more easily reinforce or build on what they learn. To the extent possible, these textbooks are open source and freely available.
+- Each course has a specific inequity feature so that participants can better relate the concepts they are learning to the circumstances that surround them.
+- Relevant academic literature, especially textbooks, are integrated throughout to enable participants to learn more, outside of the courses, based on their needs and interests. This enables participants to more easily reinforce or build on what they learn. To the extent possible, these textbooks are open source and freely available.
 - Group projects and team exercises where individuals engage one another so they are trained around how they can work in teams are included.
 
-Pedagogical foundations
+## Pedagogical foundations
 
-- Our approach is based on "I do, we do, you do". Here, an instructor will demonstrate the particular skill of interest, then students will do it with the instructor, and finally students will do it themselves. This approach is active and requires a lot from students.
+- Our approach is based on "I do, we do, you do". Here, an Technical Facilitator will demonstrate the particular skill of interest, then participants will do it with the Technical Facilitator, and finally participants will do it themselves. This approach is active and requires a lot from participants.
 - We draw from industry and use "stand-ups" and group-based projects, where possible
 - The materials deliberately include errors and teach how to problem solve, instead of just the "happy path". This is to help alleviate some pressure of perfection, as well as develop the skill of researching questions/errors.
 
@@ -21,34 +21,28 @@ Pedagogical foundations
 
 ### Set up
 
-- [`Onboarding`](https://github.com/UofT-DSI/Onboarding)
+- [Onboarding](https://github.com/UofT-DSI/onboarding)
 
-### Foundations
+### Modules
 
-- [`Shell`](https://github.com/UofT-DSI/shell)
-- [`Git`](https://github.com/UofT-DSI/git)
-- [`SQL`](https://github.com/UofT-DSI/02-sql)
-- [`Python`](https://github.com/UofT-DSI/python)
-- [`R`](https://github.com/UofT-DSI/r)
+- Introduction to Building Software
+    - [Shell](https://github.com/UofT-DSI/shell)
+    - [Git](https://github.com/UofT-DSI/git)
+    - [Python](https://github.com/UofT-DSI/python)
+- [SQL](https://github.com/UofT-DSI/sql)
+- [Applying Statistical Concepts](https://github.com/UofT-DSI/applied_statistical_concepts)
+- [Team Project](https://github.com/UofT-DSI/team-project)
+- [Scaling to Production](https://github.com/UofT-DSI/production)
+- Data Science Certificate Stream
+    - [Sampling](https://github.com/UofT-DSI/sampling)
+    - [Visualization](https://github.com/UofT-DSI/07-visualization)
+- Machine Learning Certificate Stream
+    - [Algorithms and data structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
+    - [Deep learning](https://github.com/UofT-DSI/deep_learning)
 
-### Software engineering
+# Other
 
-- [`Building software`](https://github.com/UofT-DSI/building_software)
-- [`Algorithms and data structures`](https://github.com/UofT-DSI/algorithms_and_data_structures)
-- [`Production`](https://github.com/UofT-DSI/production)
-
-### Thinking about data
-
-- [`Sampling`](https://github.com/UofT-DSI/sampling)
-- [`Causal inference`](https://github.com/UofT-DSI/causal_inference)
-- [`Visualization`](https://github.com/UofT-DSI/07-visualization)
-
-### Modeling data
-
-- [`Estimation, machine learning, and testing`](https://github.com/UofT-DSI/estimation_machine_learning_testing)
-- [`Deep learning`](https://github.com/UofT-DSI/deep_learning)
-- [`Deep learning and healthcare`](https://github.com/UofT-DSI/deep_learning_topics)
-
+- [Miscellaneous](https://github.com/UofT-DSI/admin)
 
 # Acknowledgements
 
