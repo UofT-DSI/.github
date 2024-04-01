@@ -42,7 +42,7 @@ There are several defining features of the modules:
 # Other
 
 - [Miscellaneous](https://github.com/UofT-DSI/admin)
-- [AI Policy](https://github.com/UofT-DSI/onboarding/onboarding_documents/ai_policy.md)
+- [AI Policy](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/ai_policy.md)
 
 # Acknowledgements
 
