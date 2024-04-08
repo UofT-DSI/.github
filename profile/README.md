@@ -39,7 +39,7 @@ There are several defining features of the modules:
     - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
     - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
 
-# Past Modules
+## Past Modules
 - [R](https://github.com/UofT-DSI/r)
 - [Topics in Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
 - [Casual Inference](https://github.com/UofT-DSI/causal_inference)
