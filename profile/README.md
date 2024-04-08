@@ -1,6 +1,6 @@
 # Overview
 
-This houses the curriculum for a professional program of introduction to data science and machine learning. It is composed of a variety of modules, each of around 20-30 hours contact time (with additional work expected outside classes). While the modules are modular, the foundational skills are drawn on in the others. 
+This houses the curriculum for a professional program of introduction to data science and machine learning. It is composed of a variety of modules, each of around 20-30 hours of contact time (with additional work expected outside classes). While the modules are modular, the foundational skills are drawn on in the others. 
 
 The typical student is someone new to data science and machine learning, who is interested in developing skills that they can apply in a professional setting. 
 
@@ -13,8 +13,8 @@ There are several defining features of the modules:
 
 ## Pedagogical foundations
 
-- Our approach is based on "I do, we do, you do". Here, an Technical Facilitator will demonstrate the particular skill of interest, then participants will do it with the Technical Facilitator, and finally participants will do it themselves. This approach is active and requires a lot from participants.
-- We draw from industry and use "stand-ups" and group-based projects, where possible
+- Our approach is based on "I do, we do, you do". Here, a Technical Facilitator will demonstrate the particular skill of interest, then participants will do it with the Technical Facilitator, and finally, participants will do it themselves. This approach is active and requires a lot from participants.
+- We draw from industry and use "stand-ups" and group-based projects, where possible.
 - The materials deliberately include errors and teach how to problem solve, instead of just the "happy path". This is to help alleviate some pressure of perfection, as well as develop the skill of researching questions/errors.
 
 
@@ -38,6 +38,12 @@ There are several defining features of the modules:
 - Machine Learning Software Foundations Certificate
     - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
     - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
+
+## Past Modules
+- [R](https://github.com/UofT-DSI/r)
+- [Topics in Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
+- [Casual Inference](https://github.com/UofT-DSI/causal_inference)
+- [Building Software](https://github.com/UofT-DSI/building_software)
 
 # Other
 
