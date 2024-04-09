@@ -24,30 +24,30 @@ There are several defining features of the modules:
 
 ## Modules
 
-- Introduction to Building Software
-    - [Shell](https://github.com/UofT-DSI/shell)
-    - [Git](https://github.com/UofT-DSI/git)
-    - [Python](https://github.com/UofT-DSI/python)
+- [Shell](https://github.com/UofT-DSI/shell)
+- [Git](https://github.com/UofT-DSI/git)
+- [Python](https://github.com/UofT-DSI/python)
 - [SQL](https://github.com/UofT-DSI/sql)
-- [Applying Statistical Concepts](https://github.com/UofT-DSI/applied_statistical_concepts)
-- [Team Project](https://github.com/UofT-DSI/team-project)
-- [Scaling to Production](https://github.com/UofT-DSI/production)
-- Data Science Certificate
-    - [Sampling](https://github.com/UofT-DSI/sampling)
-    - [Visualization](https://github.com/UofT-DSI/07-visualization)
-- Machine Learning Software Foundations Certificate
-    - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
-    - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
 
-## Past Modules
+- [Linear regression, classification, and resampling](https://github.com/UofT-DSI/applied_statistical_concepts)
+- [Production](https://github.com/UofT-DSI/production)
+
+- [Sampling](https://github.com/UofT-DSI/sampling)
+- [Visualization](https://github.com/UofT-DSI/07-visualization)
+
+- [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
+- [Deep Learning](https://github.com/UofT-DSI/deep_learning)
+
+- [Team Project](https://github.com/UofT-DSI/team-project)
+
 - [R](https://github.com/UofT-DSI/r)
-- [Topics in Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
+- [Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
 - [Casual Inference](https://github.com/UofT-DSI/causal_inference)
-- [Building Software](https://github.com/UofT-DSI/building_software)
+- [Building Research Software](https://github.com/UofT-DSI/building_software)
 
 # Other
 
-- [Miscellaneous](https://github.com/UofT-DSI/admin)
+- [For instructors](https://github.com/UofT-DSI/admin)
 - [AI Policy](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/ai_policy.md)
 
 # Acknowledgements
