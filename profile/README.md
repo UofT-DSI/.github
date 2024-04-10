@@ -1,55 +1,59 @@
 # Overview
 
-This houses the curriculum for a professional program of introduction to data science and machine learning. It is composed of a variety of modules, each of around 20-30 hours of contact time (with additional work expected outside classes). While the modules are modular, the foundational skills are drawn on in the others. 
+Welcome to the curricula for the Data Sciences Institute Certificates at the University of Toronto, with the financial support of Upskill Canada, powered by Palette Skills and the Government of Canada. They are designed for learners with a university, college degree or diploma who have three years or more of work experience.
 
-The typical student is someone new to data science and machine learning, who is interested in developing skills that they can apply in a professional setting. 
+Participants who successfully complete the certificate will be able to:  
+- Demonstrate a solid understanding of data science principles; effectively use command line interfaces and version control software. 
+- Apply practical programming language skills in Python.
+- Effectively interact with relational databases through queries and data manipulation using SQL commands. 
+- Design, implement, test and validate various supervised learning models.
+- Apply structured approaches to build, maintain, and improve robust software. 
 
-There are several defining features of the modules:
+Participants who complete the Data Science Certificate will be equipped with the skills to explore data sampling methods for reliable analysis and to master visualization techniques, which facilitates easier interpretation and decision-making with complex data sets. Those who complete the Machine Learning Software Foundations Certificate will gain proficiency in advanced predictive analysis techniques, understand comprehensive model evaluation strategies for reliable predictions, and acquire foundational knowledge in deep learning, including neural network applications. 
 
-- Reproducibility, ethics, and professional skills are integrated into every course.
-- Each course has a specific inequity feature so that participants can better relate the concepts they are learning to the circumstances that surround them.
-- Relevant academic literature, especially textbooks, are integrated throughout to enable participants to learn more, outside of the modules, based on their needs and interests. This enables participants to more easily reinforce or build on what they learn. To the extent possible, these textbooks are open source and freely available.
-- Group projects and team exercises where individuals engage one another so they are trained around how they can work in teams are included.
-
-## Pedagogical foundations
-
-- Our approach is based on "I do, we do, you do". Here, a Technical Facilitator will demonstrate the particular skill of interest, then participants will do it with the Technical Facilitator, and finally, participants will do it themselves. This approach is active and requires a lot from participants.
-- We draw from industry and use "stand-ups" and group-based projects, where possible.
-- The materials deliberately include errors and teach how to problem solve, instead of just the "happy path". This is to help alleviate some pressure of perfection, as well as develop the skill of researching questions/errors.
-
+# Modules
 
 ## Set up
 
 - [Onboarding](https://github.com/UofT-DSI/onboarding)
 
-## Modules
+## Current modules
 
 - [Shell](https://github.com/UofT-DSI/shell)
 - [Git](https://github.com/UofT-DSI/git)
 - [Python](https://github.com/UofT-DSI/python)
 - [SQL](https://github.com/UofT-DSI/sql)
-- [Linear regression, classification, and resampling](https://github.com/UofT-DSI/applied_statistical_concepts)
+- [Applying statistical concepts](https://github.com/UofT-DSI/applied_statistical_concepts)
 - [Production](https://github.com/UofT-DSI/production)
 - [Sampling](https://github.com/UofT-DSI/sampling)
 - [Visualization](https://github.com/UofT-DSI/07-visualization)
 - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
 - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
 - [Team Project](https://github.com/UofT-DSI/team-project)
+
+# Policies
+
+ADD LINK
+
+# Other
+
+## For instructors
+
+- [For instructors](https://github.com/UofT-DSI/admin)
+
+## Past modules
+
 - [R](https://github.com/UofT-DSI/r)
 - [Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
 - [Casual Inference](https://github.com/UofT-DSI/causal_inference)
 - [Building Research Software](https://github.com/UofT-DSI/building_software)
 
-# Other
 
-- [For instructors](https://github.com/UofT-DSI/admin)
-- [AI Policy](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/ai_policy.md)
+## Acknowledgements
 
-# Acknowledgements
+We have especially drawn on Software Carpentries, UBC's Masters of Data Science, and U of T's CARTE program.
 
-We have especially drawn on Software Carpentries, UBC's Masters of Data Science, and U of T's CARTE program. We thank them for making their materials public and hope that by making our materials public we contribute in the same way.
-
-# Contact
+## Contact
 
 courses.dsi@utoronto.ca
 
