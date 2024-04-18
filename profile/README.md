@@ -1,9 +1,10 @@
 # Overview
 
-Welcome to the curricula for the Data Sciences Institute Certificates at the University of Toronto, with the financial support of Upskill Canada, powered by Palette Skills and the Government of Canada. They are designed for learners with a university, college degree or diploma who have three years or more of work experience.
+Welcome to the home for the Data Sciences Institute's (DSI) Certificates at the University of Toronto. The Data Science and Machine Learning Software Foundations Certificates are offered with the financial support of Upskill Canada, powered by Palette Skills and the Government of Canada. The Certificates are designed for mid-career professionals looking to make a career transition into roles where they can apply data science and machine learning skills. Profesisonals with a university or college degree or diploma, and who have three years or more of work experience are eligible to [apply](https://certificates.datasciences.utoronto.ca/)
 
 Participants who successfully complete the certificate will be able to:  
-- Demonstrate a solid understanding of data science principles; effectively use command line interfaces and version control software. 
+- Demonstrate a solid understanding of data science principles
+- Effectively use command line interfaces and version control software. 
 - Apply practical programming language skills in Python.
 - Effectively interact with relational databases through queries and data manipulation using SQL commands. 
 - Design, implement, test and validate various supervised learning models.
@@ -17,7 +18,7 @@ Participants who complete the Data Science Certificate will be equipped with the
 
 - [Onboarding](https://github.com/UofT-DSI/onboarding)
 
-## Current modules
+## Current learning modules
 
 - [Shell](https://github.com/UofT-DSI/shell)
 - [Git](https://github.com/UofT-DSI/git)
@@ -31,15 +32,15 @@ Participants who complete the Data Science Certificate will be equipped with the
 - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
 - [Team Project](https://github.com/UofT-DSI/team-project)
 
-# Policies
+# Participant Guidelines
 
 ADD LINK
 
 # Other
 
-## For instructors
+## For the DSI Certificates Instructional Team
 
-- [For instructors](https://github.com/UofT-DSI/admin)
+- [For the DSI Certificates Instructional Team](https://github.com/UofT-DSI/admin)
 
 ## Past modules
 
