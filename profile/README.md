@@ -40,7 +40,7 @@ ADD LINK
 
 ## For the DSI Certificates Instructional Team
 
-- [For the DSI Certificates Instructional Team](https://github.com/UofT-DSI/admin)
+- [For the DSI Certificates Instructional Team](https://github.com/UofT-DSI/instructor_materials)
 
 ## Past modules
 
