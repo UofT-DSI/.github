@@ -1,9 +1,9 @@
 # Overview
 
-Welcome to the home for the Data Sciences Institute's (DSI) Certificates at the University of Toronto. The Data Science and Machine Learning Software Foundations Certificates are offered with the financial support of Upskill Canada, powered by Palette Skills and the Government of Canada. The Certificates are designed for mid-career professionals looking to make a career transition into roles where they can apply data science and machine learning skills. Profesisonals with a university or college degree or diploma, and who have three years or more of work experience are eligible to [apply](https://certificates.datasciences.utoronto.ca/)
+Welcome to the home for the Data Sciences Institute's (DSI) Certificates at the University of Toronto. The Data Science and Machine Learning Software Foundations Certificates are offered with the financial support of Upskill Canada, powered by Palette Skills and the Government of Canada. The Certificates are designed for mid-career professionals looking to make a career transition into roles where they can apply data science and machine learning skills. Professionals with a university or college degree or diploma, and who have three years or more of work experience are eligible to [apply](https://certificates.datasciences.utoronto.ca/).
 
 Participants who successfully complete the certificate will be able to:  
-- Demonstrate a solid understanding of data science principles
+- Demonstrate a solid understanding of data science principles.
 - Effectively use command line interfaces and version control software. 
 - Apply practical programming language skills in Python.
 - Effectively interact with relational databases through queries and data manipulation using SQL commands. 
