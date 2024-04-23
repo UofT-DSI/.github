@@ -40,7 +40,7 @@ Participants who complete the Data Science Certificate will be equipped with the
 
 ## For the DSI Certificates Instructional Team
 
-- [For the DSI Certificates Instructional Team](https://github.com/UofT-DSI/instructional_team_materials)
+- [For the DSI Certificates Instructional Team](https://github.com/UofT-DSI/instructional_team_material)
 
 ## Past modules
 
