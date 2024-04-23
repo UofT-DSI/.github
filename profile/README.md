@@ -34,7 +34,7 @@ Participants who complete the Data Science Certificate will be equipped with the
 
 # Participant Guidelines
 
-ADD LINK
+- [Participant Guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/participant_guidelines.md)
 
 # Other
 
