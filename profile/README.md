@@ -46,7 +46,7 @@ Participants who complete the Data Science Certificate will be equipped with the
 
 - [R](https://github.com/UofT-DSI/r)
 - [Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
-- [Casual Inference](https://github.com/UofT-DSI/causal_inference)
+- [Causal Inference](https://github.com/UofT-DSI/causal_inference)
 - [Building Research Software](https://github.com/UofT-DSI/building_software)
 
 
