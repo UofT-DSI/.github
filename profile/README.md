@@ -50,9 +50,10 @@ Participants who complete the Data Science Certificate will be equipped with the
 - [Building Research Software](https://github.com/UofT-DSI/building_software)
 
 
-## Acknowledgements
+## Acknowledgement
 
-We have especially drawn on Software Carpentries, UBC's Masters of Data Science, and U of T's CARTE program.
+We wish to acknowledge this land on which the University of Toronto operates. For thousands of years, it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.
+
 
 ## Contact
 
