@@ -8,7 +8,7 @@ jobs:
   greet:
     runs-on: ubuntu-latest
     steps:
-    - name: Comment Hello World
+    - name: Comment on PR
       uses: actions/github-script@v6
       with:
         script: |
