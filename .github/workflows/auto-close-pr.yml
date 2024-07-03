@@ -1,0 +1,26 @@
+name: "Close Pull Requests from Non-Org Members"
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  close-pr:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check Membership
+      uses: octokit/request-action@v2.x
+      id: member_check
+      with:
+        route: GET /orgs/{org}/members/{username}
+        org: UofT-DSI
+        username: ${{ github.event.pull_request.user.login }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.ORG_PAT }}
+
+    - name: Close PR if not a member
+      if: ${{ steps.member_check.outputs.status != 200 }}
+      uses: peter-evans/close-pull@v1
+      with:
+        comment: "Hi @${{ github.event.pull_request.user.login }}, this pull request is being automatically closed as it appears you are not a member of the organization. If this is a mistake, please contact the repository administrator."
+        issue-number: ${{ github.event.pull_request.number }}
