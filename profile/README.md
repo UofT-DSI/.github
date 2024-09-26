@@ -25,7 +25,7 @@ Participants who complete the Data Science Certificate will be equipped with the
 - [Python](https://github.com/UofT-DSI/python)
 - [SQL](https://github.com/UofT-DSI/sql)
 - [Applying Statistical Concepts](https://github.com/UofT-DSI/applied_statistical_concepts)
-- [Scaling to Production](https://github.com/UofT-DSI/production)
+- [Production](https://github.com/UofT-DSI/production)
 - [Sampling](https://github.com/UofT-DSI/sampling)
 - [Visualization](https://github.com/UofT-DSI/07-visualization)
 - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
