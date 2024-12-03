@@ -13,7 +13,7 @@ Participants who successfully complete the certificate will be able to:
 
 - [Onboarding](https://github.com/UofT-DSI/onboarding)
 
-## Current learning modules
+## Learning modules offered across all DSI Certificates 
 
 - [Shell](https://github.com/UofT-DSI/shell)
 - [Git](https://github.com/UofT-DSI/git)
@@ -35,9 +35,6 @@ Participants who successfully complete the certificate will be able to:
 ## Past modules
 
 - [R](https://github.com/UofT-DSI/r)
-- [Deep Learning: Health Care](https://github.com/UofT-DSI/deep_learning_topics/tree/main)
-- [Causal Inference](https://github.com/UofT-DSI/causal_inference)
-- [Building Research Software](https://github.com/UofT-DSI/building_software)
 
 
 ## Acknowledgement
