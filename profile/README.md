@@ -7,7 +7,7 @@ Participants who successfully complete the certificate will be able to:
 - Effectively use command line interfaces and version control software.  
 - Apply practical programming language skills in Python.  
 - Effectively interact with relational databases through queries and data manipulation using SQL commands.  
-- Apply structured approaches to build, maintain, and improve robust software.  
+- Apply structured approaches to build, maintain, and improve robust data science software.  
 
 ## Set up
 
