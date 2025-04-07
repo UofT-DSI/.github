@@ -17,8 +17,8 @@ Participants who successfully complete the certificate will be able to:
 
 - [Shell](https://github.com/UofT-DSI/shell)
 - [Git](https://github.com/UofT-DSI/git)
-- [Python](https://github.com/UofT-DSI/python)
 - [SQL](https://github.com/UofT-DSI/sql)
+- [Python](https://github.com/UofT-DSI/python)
 - [Linear Regression, Classification, and Resampling](https://github.com/UofT-DSI/LCR)
 - [Production](https://github.com/UofT-DSI/production)
 - [Sampling](https://github.com/UofT-DSI/sampling)
