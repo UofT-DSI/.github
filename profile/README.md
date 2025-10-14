@@ -26,6 +26,7 @@ Participants who successfully complete the certificate will be able to:
 - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
 - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
 - [Team Project](https://github.com/UofT-DSI/team-project)
+- [Deploying AI](https://github.com/UofT-DSI/deploying-ai)
 
 
 ## For the DSI Certificates Instructional Team
