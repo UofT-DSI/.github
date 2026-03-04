@@ -27,6 +27,7 @@ Participants who successfully complete the certificate will be able to:
 - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
 - [Team Project](https://github.com/UofT-DSI/team-project)
 - [Deploying AI](https://github.com/UofT-DSI/deploying-ai)
+- [Genetic Data Analysis Toolbox](https://github.com/UofT-DSI/gen_data?tab=readme-ov-file#genetic-data-analysis-toolbox)
 
 
 ## For the DSI Certificates Instructional Team
