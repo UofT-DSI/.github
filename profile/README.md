@@ -8,20 +8,23 @@ Welcome to the home for the Data Sciences Institute's (DSI) Microcredentials at 
 
 ## Learning modules offered across all DSI Microcredentials 
 
-- [Shell](https://github.com/UofT-DSI/shell)
-- [Git](https://github.com/UofT-DSI/git)
-- [SQL](https://github.com/UofT-DSI/sql)
-- [Python](https://github.com/UofT-DSI/python)
-- [Linear Regression, Classification, and Resampling](https://github.com/UofT-DSI/LCR)
-- [Production](https://github.com/UofT-DSI/production)
-- [Sampling](https://github.com/UofT-DSI/sampling)
-- [Visualization](https://github.com/UofT-DSI/07-visualization)
-- [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
-- [Deep Learning](https://github.com/UofT-DSI/deep_learning)
-- [Team Project](https://github.com/UofT-DSI/team-project)
-- [Deploying AI](https://github.com/UofT-DSI/deploying-ai)
-- [Genetic Data Analysis Toolbox](https://github.com/UofT-DSI/gen_data?tab=readme-ov-file#genetic-data-analysis-toolbox)
+- Data Science Foundations Microcredential
+    - [Shell](https://github.com/UofT-DSI/shell)
+    - [Git](https://github.com/UofT-DSI/git)
+    - [SQL](https://github.com/UofT-DSI/sql)
+    - [Python](https://github.com/UofT-DSI/python)
+    - [Linear Regression, Classification, and Resampling](https://github.com/UofT-DSI/LCR)
 
+- Machine Learning Foundations Microcredential
+    - [Production](https://github.com/UofT-DSI/production)
+    - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
+    - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
+
+- Deploying AI Microcredential
+    - [Deploying AI](https://github.com/UofT-DSI/deploying-ai)
+
+- Genetic Data Analysis Toolbox Microcredential
+    - [Genetic Data Analysis Toolbox](https://github.com/UofT-DSI/gen_data?tab=readme-ov-file#genetic-data-analysis-toolbox)
 
 ## For the DSI Microcredentials Instructional Team
 
@@ -30,7 +33,9 @@ Welcome to the home for the Data Sciences Institute's (DSI) Microcredentials at 
 ## Past modules
 
 - [R](https://github.com/UofT-DSI/r)
-
+- [Sampling](https://github.com/UofT-DSI/sampling)
+- [Visualization](https://github.com/UofT-DSI/07-visualization)
+- [Team Project](https://github.com/UofT-DSI/team-project)
 
 ## Acknowledgement
 
