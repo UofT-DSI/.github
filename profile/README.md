@@ -1,19 +1,12 @@
 # Overview
 
-Welcome to the home for the Data Sciences Institute's (DSI) Certificates at the University of Toronto. The DSI Certificates are designed for individuals looking to deepen their knowledge and skills in this growing field.
-
-Participants who successfully complete the certificate will be able to:  
-- Demonstrate a solid understanding of data science principles.  
-- Effectively use command line interfaces and version control software.  
-- Apply practical programming language skills in Python.  
-- Effectively interact with relational databases through queries and data manipulation using SQL commands.  
-- Apply structured approaches to build, maintain, and improve robust data science software.  
+Welcome to the home for the Data Sciences Institute's (DSI) Microcredentials at the University of Toronto. The DSI Microcredentials are designed for individuals looking to deepen their knowledge and skills in this growing field.
 
 ## Set up
 
 - [Onboarding](https://github.com/UofT-DSI/onboarding)
 
-## Learning modules offered across all DSI Certificates 
+## Learning modules offered across all DSI Microcredentials 
 
 - [Shell](https://github.com/UofT-DSI/shell)
 - [Git](https://github.com/UofT-DSI/git)
@@ -30,9 +23,9 @@ Participants who successfully complete the certificate will be able to:
 - [Genetic Data Analysis Toolbox](https://github.com/UofT-DSI/gen_data?tab=readme-ov-file#genetic-data-analysis-toolbox)
 
 
-## For the DSI Certificates Instructional Team
+## For the DSI Microcredentials Instructional Team
 
-- [For the DSI Certificates Instructional Team](https://github.com/UofT-DSI/instructional_team_material)
+- [For the DSI Microcredentials Instructional Team](https://github.com/UofT-DSI/instructional_team_material)
 
 ## Past modules
 
