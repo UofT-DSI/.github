@@ -6,36 +6,28 @@ Welcome to the home for the Data Sciences Institute's (DSI) Microcredentials at 
 
 - [Onboarding](https://github.com/UofT-DSI/onboarding)
 
-## Learning modules offered across all DSI Microcredentials 
+## Learning modules
 
-- Data Science Foundations Microcredential
     - [Shell](https://github.com/UofT-DSI/shell)
     - [Git](https://github.com/UofT-DSI/git)
     - [SQL](https://github.com/UofT-DSI/sql)
     - [Python](https://github.com/UofT-DSI/python)
     - [Linear Regression, Classification, and Resampling](https://github.com/UofT-DSI/LCR)
-
-- Machine Learning Foundations Microcredential
+    - [Sampling](https://github.com/UofT-DSI/sampling)
+    - [Visualization](https://github.com/UofT-DSI/07-visualization)
     - [Production](https://github.com/UofT-DSI/production)
     - [Algorithms and Data Structures](https://github.com/UofT-DSI/algorithms_and_data_structures)
     - [Deep Learning](https://github.com/UofT-DSI/deep_learning)
-
-- Deploying AI Microcredential
     - [Deploying AI](https://github.com/UofT-DSI/deploying-ai)
-
-- Genetic Data Analysis Toolbox Microcredential
     - [Genetic Data Analysis Toolbox](https://github.com/UofT-DSI/gen_data?tab=readme-ov-file#genetic-data-analysis-toolbox)
+    - [R](https://github.com/UofT-DSI/r)
+    - [Team Project](https://github.com/UofT-DSI/team-project)
 
 ## For the DSI Microcredentials Instructional Team
 
 - [For the DSI Microcredentials Instructional Team](https://github.com/UofT-DSI/instructional_team_material)
 
-## Past modules
 
-- [R](https://github.com/UofT-DSI/r)
-- [Sampling](https://github.com/UofT-DSI/sampling)
-- [Visualization](https://github.com/UofT-DSI/07-visualization)
-- [Team Project](https://github.com/UofT-DSI/team-project)
 
 ## Acknowledgement
 
